@@ -1,0 +1,9 @@
+package com.myspace.loan_approval;
+
+import java.lang.Number;
+
+rule "AgePreQualification"
+	dialect "mvel"
+	when
+	then
+end
